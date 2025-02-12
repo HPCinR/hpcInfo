@@ -1,0 +1,11 @@
+Package: hpcInfo
+Title: Explores HPC cluster environment from R
+Version: 0.0.0.9000
+Authors@R: 
+    person("George", "Ostrouchov", , "go@tennessee.edu", role = c("aut", "cre"))
+Description: A collection of functions and scripts that are useful in exploring and
+    programming on an HPC cluster with R.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
